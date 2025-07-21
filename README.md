@@ -35,8 +35,8 @@ Users can also manually solve the maze, using arrow keys to navigate through the
 - arrow keys - to traverse a square-celled maze when in manual mode
 - "w", "e", "d", "x", "z", "a" - to traverse a hexagonal-celled maze when in manual mode
 	
-	- "p" - to toggle the viewing of visited paths on or off
-	- "o" - to obliterate all of the walls at once (rather than waiting for the destruction of individual walls to finish)
+- "p" - to toggle the viewing of visited paths on or off
+- "o" - to obliterate all of the walls at once (rather than waiting for the destruction of individual walls to finish)
 
 
  Watch the demo, which includes the order of features being shown!
