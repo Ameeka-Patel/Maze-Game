@@ -17,23 +17,23 @@ Users can also manually solve the maze, using arrow keys to navigate through the
 ## Other Features ##
 - once the program is launched, maze construction will be animated by tearing down 1 wall at a time
 
-	- "n" - generate a completely new square maze
-	- "t" - generate a completely new hexagonal maze
+- "n" - generate a completely new square maze
+- "t" - generate a completely new hexagonal maze
 
-	- "v" - to create a new maze with vertical bias (using whatever is the current cell shape (square/hex))
-	- "h" - to create a new maze with horizontal bias (using whatever is the current cell shape (square/hex))
-   
-	- "r" - to reset the current maze without producing a new maze
-	
-	- "s" - to run a DFS search on the current maze
-	- "b" - to run a BFS search on the current maze
-   
-	- "g" - to render a gradient based on each node's distance to the target node (press again to toggle off)
-	- "f" - to render a gradient based on each node's distance to the start node (press again to toggle off)
-	
-	- "m" - to enter manual mode
-	- arrow keys - to traverse a square-celled maze when in manual mode
-	- "w", "e", "d", "x", "z", "a" - to traverse a hexagonal-celled maze when in manual mode
+- "v" - to create a new maze with vertical bias (using whatever is the current cell shape (square/hex))
+- "h" - to create a new maze with horizontal bias (using whatever is the current cell shape (square/hex))
+
+- "r" - to reset the current maze without producing a new maze
+
+- "s" - to run a DFS search on the current maze
+- "b" - to run a BFS search on the current maze
+
+- "g" - to render a gradient based on each node's distance to the target node (press again to toggle off)
+- "f" - to render a gradient based on each node's distance to the start node (press again to toggle off)
+
+- "m" - to enter manual mode
+- arrow keys - to traverse a square-celled maze when in manual mode
+- "w", "e", "d", "x", "z", "a" - to traverse a hexagonal-celled maze when in manual mode
 	
 	- "p" - to toggle the viewing of visited paths on or off
 	- "o" - to obliterate all of the walls at once (rather than waiting for the destruction of individual walls to finish)
