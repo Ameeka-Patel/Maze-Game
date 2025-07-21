@@ -16,6 +16,7 @@ Users can also manually solve the maze, using arrow keys to navigate through the
 
 ## Other Features ##
 - once the program is launched, maze construction will be animated by tearing down 1 wall at a time
+- there is a wrong moves counter for BFS, DFS, and manual mode 
 
 - "n" - generate a completely new square maze
 - "t" - generate a completely new hexagonal maze
